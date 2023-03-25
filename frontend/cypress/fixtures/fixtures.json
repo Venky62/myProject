@@ -1,0 +1,20 @@
+{
+  "email": "testbc64@gmail.com",
+  "password":"Test@66bc",
+  "recipientMailId":"martin.gabriel@gmail.com",
+  "creatingAccountMailId": "cypresstest@gmail.com",
+  "sendingMoney": "2000",
+  "selectCode": "AE",
+  "mobileNumber": "836740649",
+  "verificationCode": "852399",
+  "business": "ZedX Infotech pvt ltd",
+  "category": "Real estate or construction",
+  "subCategory": "Real estate sale, purchase and management",
+  "range": "50-100",
+  "firstName": "firstName",
+  "lastName": "lastName",
+  "date": "05/05/1999",
+  "address": "6 Mary street",
+  "city": "Newyork",
+  "pincode": "505530"
+}

@@ -1,0 +1,20 @@
+{
+  "email": "testbc62@gmail.com", 
+  "password": "Test@66bc",
+  "recipientMail": "martin.gabriel@gmail.com",
+  "newEmail": "testcypress@gmail.com",
+  "sendMoney": "2000",
+  "select": "AE",
+  "phone": "987654321",
+  "code": "123456",
+  "business": "ZedX Infotech pvt ltd",
+  "category": "Real estate or construction",
+  "subCategory": "Real estate sale, purchase and management",
+  "range": "50-100",
+  "firstName": "TestFirst",
+  "lastName": "TestLast",
+  "date": "01/01/1953",
+  "address": "1st cross 2nd main BLR",
+  "city": "Banglore",
+  "pincode": "560038"
+}
